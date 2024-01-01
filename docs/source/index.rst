@@ -6,6 +6,8 @@
 Welcome to github_publish's documentation!
 ==========================================
 
+This is a modified index file.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
