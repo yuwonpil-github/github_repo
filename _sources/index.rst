@@ -1,10 +1,10 @@
-.. mydoc documentation master file, created by
-   sphinx-quickstart on Sun Dec 31 22:48:11 2023.
+.. github_publish documentation master file, created by
+   sphinx-quickstart on Mon Jan  1 12:39:57 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to mydoc's documentation!
-=================================
+Welcome to github_publish's documentation!
+==========================================
 
 .. toctree::
    :maxdepth: 2
