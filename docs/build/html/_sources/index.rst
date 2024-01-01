@@ -13,7 +13,7 @@ Fixed the index.html.
    :maxdepth: 2
    :caption: Contents:
 
-
+   another_file
 
 Indices and tables
 ==================
