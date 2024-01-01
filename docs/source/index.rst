@@ -7,6 +7,7 @@ Welcome to github_publish's documentation!
 ==========================================
 
 This is a modified index file. Rebuild the html.
+Fixed the index.html.
 
 .. toctree::
    :maxdepth: 2
